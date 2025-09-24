@@ -1,4 +1,4 @@
-# News-ReactQuery      
+# CRM     
 
 [Online Demo](https://crm-opal-psi.vercel.app/)
 
