@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# News-ReactQuery      
 
-## Getting Started
+[Online Demo](https://crm-opal-psi.vercel.app/)
 
-First, run the development server:
+- Developed by Reza Geshani                  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Created - 2025-09-25
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Technologies Used - TailwindCSS , MomentJs , React , NextJs , API , MongoDB                                                    
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Role - Frontend
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- How to reach me : with my [instagram](https://www.instagram.com/rezageshani_web) and [linkedin](http://www.linkedin.com/in/reza-geshani-web)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+<img width="2560" height="1302" alt="1" src="https://github.com/user-attachments/assets/8f166595-1253-4a6b-ac91-5fb989853b62" />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img width="2546" height="1304" alt="2" src="https://github.com/user-attachments/assets/00683cf2-36f8-48ff-804e-b8e25f96e662" />
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img width="2560" height="1304" alt="3" src="https://github.com/user-attachments/assets/37fd56eb-7a40-48be-aa8f-c8d3a51e1caa" />
 
-## Deploy on Vercel
+<img width="2560" height="1304" alt="4" src="https://github.com/user-attachments/assets/ce3a011d-84c6-4654-909c-b2305e0d4efc" />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<img width="2546" height="1298" alt="5" src="https://github.com/user-attachments/assets/2b864ba3-3da4-4eaa-b499-3a119347b5e3" />
