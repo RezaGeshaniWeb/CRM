@@ -1,8 +1,6 @@
 # CRM     
 
 [Online Demo](https://crm-opal-psi.vercel.app/)
-
-- please check the demo with vpn
          
 - Developed by Reza Geshani                  
 
