@@ -6,7 +6,7 @@
 
 - Created - 2025-09-25        
 
-- Technologies Used - TailwindCSS , MomentJs , React , NextJs , API , MongoDB                                                         
+- Technologies Used - TailwindCSS , MomentJs , React , NextJs , API , MongoDB                                                                
 
 - Role - Frontend
 
